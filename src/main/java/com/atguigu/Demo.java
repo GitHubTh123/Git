@@ -11,6 +11,7 @@ public class Demo {
 
     public static void main(String[] args) {
         System.out.println("猪肝");
+        System.out.println("分支添加");
         System.out.println("1");
 
         System.out.println("切换分支");
