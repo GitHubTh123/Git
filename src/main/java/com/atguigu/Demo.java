@@ -10,6 +10,7 @@ package com.atguigu;
 public class Demo {
 
     public static void main(String[] args) {
+        System.out.println("猪肝");
         System.out.println("1");
 
         System.out.println("切换分支");
